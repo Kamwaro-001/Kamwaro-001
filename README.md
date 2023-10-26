@@ -7,6 +7,7 @@
 ---> 
 - 👋
 - Passionate computer science student
-- Currently improving on JavaScript and Python skills and also working on understanding React and Django
-- 📫 instagram: https://instagram.com/_kamwaro
+- Currently improving on JavaScript and Python skills and working on understanding Sveltekit, React, and Django.
+- I am also trying to understand machine learning with my main focus currently on computer vision.
+- 📫 Instagram: https://instagram.com/_kamwaro
 
