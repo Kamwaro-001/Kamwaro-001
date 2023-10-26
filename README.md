@@ -8,6 +8,6 @@
 - 👋
 - Passionate computer science student
 - Currently improving on JavaScript and Python skills and working on understanding Sveltekit, React, and Django.
-- I am also trying to understand machine learning with my main focus currently on computer vision.
+- My other focus is machine learning since I am intrigued by computer vision.
 - 📫 Instagram: https://instagram.com/_kamwaro
 
