@@ -7,11 +7,11 @@
 ---> 
 - 👋
 - Passionate computer scientist
-- Currently making web apps using Javascript and python frameworks. I am working on improving my Svelte, Vuejs, React and Django skills.
+- Currently making web and mobile apps using Javascript and python frameworks. I am working on improving my Svelte, Vuejs, React and Django skills.
 - My other focus is machine learning since I am intrigued by computer vision.
 
   You can reach me through
 - 📫 Instagram: https://instagram.com/_kamwaro
-- 📫 linkedIn: https://linkedin.com/in/job-m-bb07b518b
+- 📫 linkedIn: https://linkedin.com/in/job-kamwaro
 
 
