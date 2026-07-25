@@ -17,13 +17,13 @@
 #  Hi 👋
 Fullstack Software Engineer specializing in building cross-platform Mobile and Web Applications
 
-### 💻 Technical Stack & Ecosystems
+### Technical Stack & Ecosystems
 * **Languages:** TypeScript, JavaScript, Python, *(Currently mastering Go)*
 * **Frontend & Mobile:** Vue.js, React Native Expo, React (Next.js), SvelteKit, Tailwind CSS
 * **Backend & Databases:** NestJS, PostgreSQL, Django, REST/GraphQL APIs, SQLite, MongoDB
 * **Cloud & DevOps:** Google Cloud Platform (GCP), Firebase, Docker, Git
 * **Machine Learning:** PyTorch, TensorFlow, OpenCV, Pandas, NumPy, WandB
 
-### 📬 Connect With Me
+### Connect With Me
 * **LinkedIn:** [linkedin.com/in/job-kamwaro](https://linkedin.com/in/job-kamwaro)
 * **Email:** [jobkamwaro9@gmail.com](mailto:jobkamwaro9@gmail.com)
