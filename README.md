@@ -13,16 +13,18 @@
   You can reach me through
 - 📫 Instagram: https://instagram.com/_kamwaro
 - 📫 linkedIn: https://linkedin.com/in/job-kamwaro
+
+*(Currently mastering Go)*
 ---> 
 #  Hi 👋
 Fullstack Software Engineer specializing in building cross-platform Mobile and Web Applications
 
 ### Technical Stack & Ecosystems
-* **Languages:** TypeScript, JavaScript, Python, *(Currently mastering Go)*
+* **Languages:** TypeScript, JavaScript, Python
 * **Frontend & Mobile:** Vue.js, React Native Expo, React (Next.js), SvelteKit, Tailwind CSS
 * **Backend & Databases:** NestJS, PostgreSQL, Django, REST/GraphQL APIs, SQLite, MongoDB
 * **Cloud & DevOps:** Google Cloud Platform (GCP), Firebase, Docker, Git
-* **Machine Learning:** PyTorch, TensorFlow, OpenCV, Pandas, NumPy, WandB
+* **Machine Learning:** PyTorch, TensorFlow, Pandas, NumPy, WandB
 
 ### Connect With Me
 * **LinkedIn:** [linkedin.com/in/job-kamwaro](https://linkedin.com/in/job-kamwaro)
